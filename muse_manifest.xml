@@ -1,0 +1,65 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="portfolio.com" resolutions="1x" timestamp="1525140612836">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="242357124" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="310584261" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="72.jpg" crc="338716644" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot (111) copy.jpg" crc="3794908708" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="lol.jpg" crc="283936208" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="thing-crop-u440.png" crc="4209344197" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="new piskel clone clone clone.gif" crc="4063280695" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sky copy.png" crc="3907597331" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted-svg-210791x246.svg" crc="3925864093" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 210791x246_poster_.png" crc="399463917" ref="index"/>
+    <file name="pasted-svg-262837x323.svg" crc="4177106780" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 262837x323_poster_.png" crc="4280731423" ref="index"/>
+    <file name="pasted-svg-143.svg" crc="3980805513" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 143_poster_.png" crc="190482719" ref="index"/>
+    <file name="pasted-svg-144149x216.svg" crc="3897536147" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 144149x216_poster_.png" crc="4040756219" ref="index"/>
+    <file name="pasted-svg-144253x217.svg" crc="4245834320" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 144253x217_poster_.png" crc="291887272" ref="index"/>
+    <file name="screenshot (106).jpg" crc="516688904" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot (108).jpg" crc="121677502" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot (109).jpg" crc="362035074" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="486771138" seo="true" mt="1511983194567" redirect="true"/>
+</manifest>
